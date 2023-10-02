@@ -1,14 +1,6 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="application/json"; charset=utf-8">
-    </head>
-  <body>
-    {
-      "name" : "Denshi Taro",
-      "age" : 19,
-      "nickname" : "Denta",
-      "isUseNickname" : true
-    }
-  </body>
-</html>
-    
+{
+  "name" : "Denshi Taro",
+  "age" : 19,
+  "nickname" : "Denta",
+  "isUseNickname" : true
+}
