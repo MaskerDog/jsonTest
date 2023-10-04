@@ -1,0 +1,62 @@
+[
+  {
+    "name" : "Denshi Taro",
+    "age" : 19,
+    "nickname" : "Denta",
+    "isUseNickname" : true
+  },
+  {
+    "name" : "Nichiden Hanako",
+    "age" : 20,
+    "nickname" : "Hana",
+    "isUseNickname" : false
+  },
+  {
+    "name" : "Kikai Jiro",
+    "age" : 21,
+    "nickname" : "Kiki",
+    "isUseNickname" : true
+  },
+  {
+    "name" : "Denwa Saburo",
+    "age" : 22,
+    "nickname" : "Denwa",
+    "isUseNickname" : false
+  },
+  {
+    "name" : "Pasokon Yoko",
+    "age" : 23,
+    "nickname" : "Paso",
+    "isUseNickname" : true
+  },
+  {
+    "name" : "Netto Rika",
+    "age" : 24,
+    "nickname" : "Netto",
+    "isUseNickname" : false
+  },
+  {
+    "name" : "Keitai Mako",
+    "age" : 25,
+    "nickname" : "Keita",
+    "isUseNickname" : true
+  },
+  {
+    "name" : "Softo Nano",
+    "age" : 26,
+    "nickname" : "Sofu",
+    "isUseNickname" : false
+  },
+  {
+    "name" : "Appu Taro",
+    "age" : 27,
+    "nickname" : "Appu",
+    "isUseNickname" : true
+  },
+  {
+    "name" : "Webu Hikari",
+    "age" : 28,
+    "nickname" : "Webu",
+    "isUseNickname" : false
+  }
+]
