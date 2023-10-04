@@ -1,0 +1,83 @@
+[
+  {
+    "name": "ゴールデンレトリバー",
+    "description": "フレンドリーで知的な犬種で、家族向けのペットとして非常に人気があります。",
+    "averageWeight": "25-34kg",
+    "averageHeight": "51-61cm",
+    "size": "大型犬",
+    "personality": ["フレンドリー", "知的", "忠実"],
+    "imageURL": "https://dumy.hogehoge.com/goldenretriever.jpg"
+  },
+  {
+    "name": "スピッツ",
+    "description": "警戒心が強く、活発で勇敢な犬種。美しい毛皮と尾が特徴的です。",
+    "averageWeight": "10-25kg",
+    "averageHeight": "40-50cm",
+    "size": "中型犬",
+    "personality": ["警戒心が強い", "活発", "勇敢"],
+    "imageURL": "https://dumy.hogehoge.com/spitz.jpg"
+  },
+  {
+    "name": "ボーダーコリー",
+    "description": "非常に賢く活発な犬種で、牧羊犬としての能力が高いです。",
+    "averageWeight": "14-20kg",
+    "averageHeight": "46-53cm",
+    "size": "中型犬",
+    "personality": ["賢い", "活発", "協力的"],
+    "imageURL": "https://dumy.hogehoge.com/bordercollie.jpg"
+  },
+  {
+    "name": "スコッチコリー",
+    "description": "家族に対して優しく、護衛本能が強い犬種。長い毛が特徴です。",
+    "averageWeight": "18-29kg",
+    "averageHeight": "51-61cm",
+    "size": "大型犬",
+    "personality": ["優しい", "護衛本能が強い", "家族思い"],
+    "imageURL": "https://dumy.hogehoge.com/scotchcollie.jpg"
+  },
+  {
+    "name": "柴犬",
+    "description": "日本原産の犬種で、小型で忍耐強く、独立心が強い性格を持っています。",
+    "averageWeight": "7-12kg",
+    "averageHeight": "35-42cm",
+    "size": "中型犬",
+    "personality": ["独立心が強い", "忍耐強い", "勇敢"],
+    "imageURL": "https://dumy.hogehoge.com/shibainu.jpg"
+  },
+  {
+    "name": "サモエド",
+    "description": "明るくフレンドリーな性格で、厚い白い毛皮が特徴的な大型犬種です。",
+    "averageWeight": "23-30kg",
+    "averageHeight": "50-60cm",
+    "size": "大型犬",
+    "personality": ["フレンドリー", "社交的", "活発"],
+    "imageURL": "https://dumy.hogehoge.com/samoyed.jpg"
+  },
+  {
+    "name": "チワワ",
+    "description": "世界で最も小さい犬種の一つで、勇敢で好奇心旺盛な性格を持っています。",
+    "averageWeight": "1.5-3kg",
+    "averageHeight": "15-25cm",
+    "size": "小型犬",
+    "personality": ["好奇心旺盛", "勇敢", "活発"],
+    "imageURL": "https://dumy.hogehoge.com/chihuahua.jpg"
+  },
+  {
+    "name": "ジャーマンシェパード",
+    "description": "警戒心が強く、忠実で訓練を受けやすい犬種。警察犬や軍用犬としても用いられます。",
+    "averageWeight": "22-40kg",
+    "averageHeight": "55-65cm",
+    "size": "大型犬",
+    "personality": ["忠実", "勇敢", "警戒心が強い"],
+    "imageURL": "https://dumy.hogehoge.com/germanshepherd.jpg"
+  },
+  {
+    "name": "オーストラリアンシェパード",
+    "description": "活発で遊び好きな性格を持ち、家族や他のペットとの相性も良い犬種です。",
+    "averageWeight": "16-32kg",
+    "averageHeight": "46-58cm",
+    "size": "大型犬",
+    "personality": ["活発", "遊び好き", "友好的"],
+    "imageURL": "https://dumy.hogehoge.com/australianshepherd.jpg"
+  }
+]
