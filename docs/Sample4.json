@@ -6,7 +6,7 @@
     "averageHeight": "51-61cm",
     "size": "大型犬",
     "personality": ["フレンドリー", "知的", "忠実"],
-    "imageURL": "https://dumy.hogehoge.com/goldenretriever.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/goldenretriever.jpg"
   },
   {
     "name": "スピッツ",
@@ -15,7 +15,7 @@
     "averageHeight": "40-50cm",
     "size": "中型犬",
     "personality": ["警戒心が強い", "活発", "勇敢"],
-    "imageURL": "https://dumy.hogehoge.com/spitz.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/spitz.jpg"
   },
   {
     "name": "ボーダーコリー",
@@ -24,7 +24,7 @@
     "averageHeight": "46-53cm",
     "size": "中型犬",
     "personality": ["賢い", "活発", "協力的"],
-    "imageURL": "https://dumy.hogehoge.com/bordercollie.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/bordercollie.jpg"
   },
   {
     "name": "スコッチコリー",
@@ -33,7 +33,7 @@
     "averageHeight": "51-61cm",
     "size": "大型犬",
     "personality": ["優しい", "護衛本能が強い", "家族思い"],
-    "imageURL": "https://dumy.hogehoge.com/scotchcollie.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/scotchcollie.jpg"
   },
   {
     "name": "柴犬",
@@ -42,7 +42,7 @@
     "averageHeight": "35-42cm",
     "size": "中型犬",
     "personality": ["独立心が強い", "忍耐強い", "勇敢"],
-    "imageURL": "https://dumy.hogehoge.com/shibainu.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/shibainu.jpg"
   },
   {
     "name": "サモエド",
@@ -51,7 +51,7 @@
     "averageHeight": "50-60cm",
     "size": "大型犬",
     "personality": ["フレンドリー", "社交的", "活発"],
-    "imageURL": "https://dumy.hogehoge.com/samoyed.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/samoyed.jpg"
   },
   {
     "name": "チワワ",
@@ -60,7 +60,7 @@
     "averageHeight": "15-25cm",
     "size": "小型犬",
     "personality": ["好奇心旺盛", "勇敢", "活発"],
-    "imageURL": "https://dumy.hogehoge.com/chihuahua.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/chihuahua.jpg"
   },
   {
     "name": "ジャーマンシェパード",
@@ -69,7 +69,7 @@
     "averageHeight": "55-65cm",
     "size": "大型犬",
     "personality": ["忠実", "勇敢", "警戒心が強い"],
-    "imageURL": "https://dumy.hogehoge.com/germanshepherd.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/germanshepherd.jpg"
   },
   {
     "name": "オーストラリアンシェパード",
@@ -78,6 +78,6 @@
     "averageHeight": "46-58cm",
     "size": "大型犬",
     "personality": ["活発", "遊び好き", "友好的"],
-    "imageURL": "https://dumy.hogehoge.com/australianshepherd.jpg"
+    "imageURL": "https://maskerdog.github.io/jsonTest/australianshepherd.jpg"
   }
 ]
