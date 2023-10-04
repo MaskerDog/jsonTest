@@ -1,0 +1,44 @@
+[
+  {
+    "name" : "山田太郎",
+    "age" : 19,
+    "nickname" : "タロウ",
+    "hobby": ["読書", "映画鑑賞"],
+    "isUseNickname" : true
+  },
+  {
+    "name" : "佐藤花子",
+    "age" : 19,
+    "nickname" : "ハナ",
+    "hobby": ["ジョギング", "ギター"],
+    "isUseNickname" : false
+  },
+  {
+    "name" : "鈴木一郎",
+    "age" : 19,
+    "nickname" : "イチロー",
+    "hobby": ["写真撮影", "旅行"],
+    "isUseNickname" : true
+  },
+  {
+    "name" : "田中美咲",
+    "age" : 19,
+    "nickname" : "ミサキ",
+    "hobby": ["料理", "絵を描く"],
+    "isUseNickname" : false
+  },
+  {
+    "name" : "高橋純",
+    "age" : 19,
+    "nickname" : "ジュン",
+    "hobby": ["サッカー", "ゲーム"],
+    "isUseNickname" : true
+  },
+  {
+    "name" : "中村悠",
+    "age" : 19,
+    "nickname" : "ユウ",
+    "hobby": ["音楽鑑賞", "バドミントン"],
+    "isUseNickname" : false
+  }
+]
